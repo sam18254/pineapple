@@ -1,0 +1,180 @@
+ *{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    -border: 1px solid red;
+    height: 110px;
+    background-color: rgba(251, 255, 0, 0.712);
+}
+
+a{
+    color: orange;
+}
+
+
+.logo img{
+    margin-left: 40px;
+    float: left;
+    margin-top: 15px;
+}
+
+.logo h1{
+    margin-top: 40px;
+    -border: 1px solid red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    float: left;
+    
+}
+
+
+
+.logo ul{
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 628px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+}
+
+.logo ul li:hover{
+    background-color:rgba(255,235,60,255);
+    color: orange;
+    cursor: pointer;
+    
+    
+}
+
+.logo li{
+    display: inline-block;
+    margin-left: 40px;
+    
+}
+
+.banner{
+    height: 500px;
+    
+}
+
+.Gallary{
+    -border: 1px solid red;
+    height: 1380px;
+    padding-top: 20px;
+    
+}
+
+.Gallary img{
+    float: left;
+    margin-left: 36px;
+    margin-top: 25PX;
+}
+
+.about{
+    -border: 1px solid blue;
+    height: 420px;
+    width: 100%;
+}
+
+.about h2{
+    margin-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    margin-left: 40px;
+}
+
+.Gallary h1{
+    margin-left: 33px;
+    margin-top: 10px;
+}
+
+.ac1 img{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.ac2 p{
+    margin-top: 10px;
+}
+.ac1{
+    float: left;
+}
+
+.form{
+    -border: 1px solid red;
+    margin-left: 40px;
+    height: 405px;
+}
+
+.m1{
+    padding: 5px;
+    margin-top: 5px;
+    float: left;
+}
+
+.form h2{
+    margin-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.m1 input{
+    padding: 3px;
+    width: 570px;
+}
+
+.m1 button{
+    width: 583px;
+    height: 25px;
+    padding: 5px;
+}
+
+.footer{
+    -border: 1px solid red;
+    height: 260px;
+    background-color: rgba(251, 255, 0, 0.712);
+    padding: 5px;
+
+}
+.x{
+    -border: 1px solid yellow;
+    width: 20%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    float: left;
+
+}
+
+.y{
+    -border: 1px solid yellow;
+    width: 20%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    float: left;
+    margin-left: 72px;
+    
+}
+
+.z{
+    -border: 1px solid yellow;
+    width: 20%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    float: left;
+    margin-left: 72px;
+    
+}
+
+.n{
+    -border: 1px solid yellow;
+    width: 20%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    float: left;
+    margin-left: 75px;
+    
+}
+
+
+
+
+
+
+
+
+
+
